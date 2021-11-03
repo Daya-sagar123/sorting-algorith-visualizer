@@ -33,6 +33,7 @@ Type these commands in cmd prompt to install it
 
 pip install PyQt5 pip install PyQt5-tools
 
-I have also provided the executable of this project incase if you just want to see how it works without installing anything even python is also not required.
+![image](https://user-images.githubusercontent.com/62069864/140017526-a7ed757a-519f-42cc-83cf-f2f062146384.png)\
+![image](https://user-images.githubusercontent.com/62069864/140017588-a7bb9dc4-4625-4691-9b5c-7782d45d8560.png)
 
-download the rar file named Sorting Visualizer(Executable).rar and extract it after that open the extracted folder and double click on the Visualizer.exe file to run the program
+
