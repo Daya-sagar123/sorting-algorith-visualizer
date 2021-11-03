@@ -1,4 +1,4 @@
-# sorting-algorith-visualizer
+# sorting-algorithm-visualizer
 its a graphical user interface application to uderstand the sorting algorithm
 SortingVisualizer
 
